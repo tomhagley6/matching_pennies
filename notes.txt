@@ -1,0 +1,9 @@
+- Is the mouse swapping back and forth without delay (strat 1) or feigning to one side and then suddenly switching to another (strat 2)
+
+- Value of including an internal cooldown (corridor) vs not (MP game)
+
+Corridor seems to be win switch
+But we can reduce these down to 4 bars only 
+
+- Do we see more early movement in the trial immediately after an early lock where players didn't move
+  - How is this affected by whether you won or lost on that early lock trial 
